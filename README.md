@@ -14,7 +14,7 @@ The folders below organize the repository. The focus areas describe a suggested 
 | [Argo CD](./argo-cd/) | GitOps, application sync, drift detection, deployment workflows, and rollback |
 | [AWS](./aws/) | IAM, networking, compute, storage, availability, and troubleshooting |
 | [Istio](./istio/) | Traffic management, service-to-service security, observability, and service mesh troubleshooting |
-| [Kubernetes Upgrades](./K8s-upgrade/) | Upgrade planning, compatibility checks, node draining, validation, and recovery |
+| [Kubernetes Upgrades](./k8s-upgrade/) | Upgrade planning, compatibility checks, node draining, validation, and recovery |
 | [Kubernetes](./k8s/) | Workloads, scheduling, networking, storage, RBAC, and cluster troubleshooting |
 | [KEDA](./keda/) | Event-driven autoscaling, triggers, ScaledObjects, and interaction with HPA |
 | [Linux](./linux/) | Processes, permissions, networking, filesystems, services, and troubleshooting |
