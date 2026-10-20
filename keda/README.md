@@ -1,8 +1,8 @@
-```Explain Kubernetes autoscaling in depth for interview preparation, using a realistic Oracle Health Millennium platform example (no proprietary claims). Cover and compare Karpenter, KEDA, HPA, VPA, and Cluster Autoscaler: purpose, architecture, scaling flow, configuration, key YAML examples, metrics, limitations, best use cases, cost/reliability impact, and common production issues. Show how they work together to improve efficiency, reduce waste, and maintain availability. Include cluster lifecycle/upgrades, platform reliability, reusable templates/paved paths, and developer self-service. End with an interview-ready STAR story, a Markdown mind map, and common interview questions with concise answers.```
+```Explain Kubernetes autoscaling in depth for interview preparation, using a realistic Enterprise platform example (no proprietary claims). Cover and compare Karpenter, KEDA, HPA, VPA, and Cluster Autoscaler: purpose, architecture, scaling flow, configuration, key YAML examples, metrics, limitations, best use cases, cost/reliability impact, and common production issues. Show how they work together to improve efficiency, reduce waste, and maintain availability. Include cluster lifecycle/upgrades, platform reliability, reusable templates/paved paths, and developer self-service. End with an interview-ready STAR story, a Markdown mind map, and common interview questions with concise answers.```
 
 ## Kubernetes autoscaling: the interview mental model
 
-In a realistic, non-proprietary Oracle Health Millennium platform scenario, imagine Kubernetes hosting asynchronous integration services: they consume messages, validate/enrich them, and send results to downstream systems.
+In a realistic, non-proprietary Enterprise platform scenario, imagine Kubernetes hosting asynchronous integration services: they consume messages, validate/enrich them, and send results to downstream systems.
 
 Autoscaling has three distinct jobs:
 
